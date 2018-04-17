@@ -7,4 +7,4 @@ Diese Übung wird in der Gruppe im Stile von Test-driven Development durchgefüh
 Nun darf sie den nächsten (roten) Test hinzufügen.
 - Daraufhin beginnt der Zyklus mit einer weiteren Person von vorne.
 
-Die die bewältigende Aufgabe befindet sich [hier](kata.md).
+Die zu bewältigende Aufgabe befindet sich [hier](kata.md).
